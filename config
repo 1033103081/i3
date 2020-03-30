@@ -119,8 +119,8 @@ mode "resize" {
 }
 bindsym $super+r mode "resize"
 
-default_border pixel 4
-default_floating_border pixel 4
+default_border pixel 0
+default_floating_border pixel 0
 
 
 
